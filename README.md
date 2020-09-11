@@ -1,4 +1,4 @@
-# geocoder_example
+# Geocoder Example
 
 Demonstrates how to use the geocoder plugin.
 
